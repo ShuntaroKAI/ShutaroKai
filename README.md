@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ShutaroKai
-- 🌱 I’m currently learning programming in linux.
+初心者プログラマーです！
 
 <!---
 ShutaroKai/ShutaroKai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
